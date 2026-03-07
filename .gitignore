@@ -1,0 +1,9 @@
+# Ignora a chave em QUALQUER pasta
+chave.json
+
+# Ignora os executáveis e pastas de compilação em QUALQUER pasta
+*.exe
+build/
+dist/
+__pycache__/
+*.spec
