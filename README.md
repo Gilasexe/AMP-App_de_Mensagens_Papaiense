@@ -4,6 +4,8 @@ O AMP serve como uma forma alternativa de se enviar mensagens entre os membros d
 
 ---
 <div align="center">
-  <img src="assets/logo.png" width="150px">
+  <img src="https://github.com/user-attachments/assets/9636d11a-2e20-41ad-8da1-b747cfed278b" width="400px" alt="Logo Papaio">
+  <h1>AMP - App de Mensagens Papaiense</h1>
 </div>
 ---
+Sinta-se livre para utilizar, mesmo não sendo do nosso grupo, por enquanto o chat é global, logo, você tera que conversar com todos, mas isso sera mudado em breve, obrigado por testar meu app!
